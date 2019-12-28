@@ -6,7 +6,7 @@ This script is based on the tutorial by Pat David (https://www.gimp.org/tutorial
 
 Place the script in your plugin folder, such as:
 
-`/home/edoardo/.config/GIMP/2.10/plug-ins/plugin-luma-mask.py `
+`/home/<your-username>/.config/GIMP/2.10/plug-ins/plugin-luma-mask.py `
 
 
 ## Usage
